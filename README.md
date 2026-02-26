@@ -20,6 +20,7 @@ This project was built to demonstrate core **Security Operations Center (SOC)** 
    ```bash
    git clone [https://github.com/escorcio05/Mini-SIEM.git](https://github.com/escorcio05/Mini-SIEM.git)
    cd Mini-SIEM
+   pip3 install requests
    
 ## 👥 Authors
 Guilherme Escórcio - [escorcio05](https://github.com/escorcio05)<br>
