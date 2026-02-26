@@ -22,5 +22,5 @@ This project was built to demonstrate core **Security Operations Center (SOC)** 
    cd Mini-SIEM
    
 ## 👥 Authors
-Leonardo Silva - [leonelas03](https://github.com/leonelas03)<br>
-Guilherme Escórcio - [escorcio05](https://github.com/escorcio05)
+Guilherme Escórcio - [escorcio05](https://github.com/escorcio05)<br>
+Leonardo Silva - [leonelas03](https://github.com/leonelas03)
