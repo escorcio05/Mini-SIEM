@@ -1,0 +1,7 @@
+Feb 26 14:32:11 guilherme-HP sshd[1234]: Accepted publickey for guilherme from 192.168.1.50 port 50212 ssh2
+Feb 26 14:35:01 guilherme-HP sshd[1235]: Failed password for root from 203.0.113.42 port 44321 ssh2
+Feb 26 14:35:05 guilherme-HP sshd[1235]: Failed password for root from 203.0.113.42 port 44321 ssh2
+Feb 26 14:35:09 guilherme-HP sshd[1235]: Failed password for root from 203.0.113.42 port 44321 ssh2
+Feb 26 14:35:14 guilherme-HP sshd[1235]: Failed password for admin from 203.0.113.42 port 44321 ssh2
+Feb 26 15:10:22 guilherme-HP sudo[4421]: guilherme : TTY=pts/0 ; PWD=/home ; USER=root ; COMMAND=/bin/cat /etc/shadow
+Feb 26 16:40:01 guilherme-HP sshd[5521]: Failed password for invalid user test from 8.8.8.8 port 1122 ssh2
