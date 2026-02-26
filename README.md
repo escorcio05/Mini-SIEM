@@ -18,7 +18,7 @@ This project was built to demonstrate core **Security Operations Center (SOC)** 
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/TEU-USER/Mini-SIEM.git](https://github.com/TEU-USER/Mini-SIEM.git)
+   git clone [https://github.com/escorcio05/Mini-SIEM.git](https://github.com/escorcio05/Mini-SIEM.git)
    cd Mini-SIEM
    
 ## 👥 Authors
